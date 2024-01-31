@@ -21,3 +21,5 @@ python App.py
 
 # Step 3
 > Enjoy this shit 🗿
+
+![Image Snake](assets/image.png)
